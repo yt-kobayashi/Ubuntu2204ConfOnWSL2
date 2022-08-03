@@ -5,5 +5,5 @@ Ubuntu 22.04 にアプリケーションをインストールするスクリプ�
 
 ## 使用方法
 ~~~
-$ ./AppInstaller.sh
+$ sudo ./AppInstaller.sh
 ~~~
