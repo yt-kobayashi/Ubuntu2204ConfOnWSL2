@@ -1,0 +1,2 @@
+# Ubuntu2204ConfOnWSL2
+WSL2向けUbuntu22.04をセットアップする際のスクリプト
