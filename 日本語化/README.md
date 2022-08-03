@@ -5,5 +5,5 @@ Ubuntu 22.04 を日本語化するためのスクリプトです。
 
 ## 使用方法
 ~~~
-$ ./JapaneseLocalization.sh
+$ sudo ./JapaneseLocalization.sh
 ~~~
